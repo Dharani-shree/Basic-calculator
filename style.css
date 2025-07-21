@@ -1,0 +1,9 @@
+.calcs
+{
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
+.calcs button{
+    margin-top: 20px;
+}
